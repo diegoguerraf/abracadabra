@@ -1,0 +1,16 @@
+{
+  "name": "de-abracadabra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Paulina San Martín",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
